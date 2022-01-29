@@ -1,0 +1,6 @@
+20220110	00:13:56	aeefbf45-1bb5-4a20-8771-be92824c2ef7	/new-page.html	GET
+20220110	00:13:56	0a493305-fb79-44ee-93cc-cff13ea27950	/img/shiba1.jpg	GET
+20220110	00:13:56	79c50e9e-a998-4d67-adef-d7ab3769ef41	/favicon.ico	GET
+20220110	00:15:31	cafd042e-cd1e-4ff0-becb-0ef0b9b3e44e	/new-page.html	GET
+20220110	00:16:34	62dd5bf4-3416-45b2-baf1-05e2be256197	/new-page.html	GET
+20220110	00:16:34	a626a084-c5de-4d7e-a6c5-6749322a6ead	/img/shiba1.jpg	GET

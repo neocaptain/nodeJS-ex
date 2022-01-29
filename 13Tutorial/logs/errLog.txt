@@ -1,0 +1,5 @@
+20220110	00:15:31	cd2cf2f2-fc14-43d1-a2a0-bf17fe7f5260	TypeError: fsPromises.readFil is not a function
+20220112	23:51:18	69b95123-c2c7-4e6c-b7fd-f1bd6290a92e	Error: Not allowed by CORS
+20220119	10:32:39	b5ce3e44-54db-4b49-be39-b7e3a32ba27b	TypeError: Cannot read properties of undefined (reading 'username')
+20220119	10:33:43	c5c51c6c-1d16-44c7-b209-79f8c78190cc	TypeError: Cannot read properties of undefined (reading 'username')
+20220119	10:35:55	0b3756ba-27b2-43c0-8b2e-e4ed5ebfbb62	TypeError: Cannot read properties of undefined (reading 'username')
